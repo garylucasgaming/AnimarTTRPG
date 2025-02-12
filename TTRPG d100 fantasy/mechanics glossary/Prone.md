@@ -1,0 +1,1 @@
+**Prone** - this creature has been knocked to the ground laying flat. attacks against them count as 1 degree of success higher, and are considered Strong hits, if they would normally be weak or firm. 

@@ -1,0 +1,1 @@
+**Education** determines your characters wisdom and the ability to use the knowledge they've gained to reason and deduce.  ^f6cf4f

@@ -1,0 +1,1 @@
+**Slashing** damage can cause bleeds on attacks. After making a successful hit roll a d100. on a result of 25 or lower the target gains 1 point of bleed. 

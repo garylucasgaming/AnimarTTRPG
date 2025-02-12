@@ -1,0 +1,1 @@
+a character can only have as many levels of fatigue as their [[Fortitude]] modifier. if they exceed that, they become unconscious until receiving [[First Aid]]. 

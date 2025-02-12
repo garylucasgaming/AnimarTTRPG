@@ -1,0 +1,1 @@
+**Fortitude** determines your characters ability to take damage, overcome illnesses, toughness, and physical endurance. ^b60fca

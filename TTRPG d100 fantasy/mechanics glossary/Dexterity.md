@@ -1,0 +1,1 @@
+**Dexterity** determines your characters physical nimbleness, agility, and dexterity with hands. ^5426d4

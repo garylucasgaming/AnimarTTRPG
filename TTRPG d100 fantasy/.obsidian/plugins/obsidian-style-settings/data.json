@@ -1,0 +1,19 @@
+{
+  "ITS@@select": "none",
+  "supercharged-links@@4ec1-a993-weight": "bold",
+  "supercharged-links@@4ec1-a993-decoration": "underline",
+  "ITS@@its-d": false,
+  "ITS@@nord": false,
+  "ITS@@mini": false,
+  "ITS@@notion": false,
+  "ITS@@drwn": false,
+  "ITS@@t-d": false,
+  "ITS@@s-d": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@accent-color": true,
+  "ITS@@accent2-lite@@dark": "#E16A10",
+  "ITS@@th@@dark": "#22424B",
+  "ITS@@td@@dark": "#1998BE33",
+  "ITS@@link-style": "link-underline"
+}

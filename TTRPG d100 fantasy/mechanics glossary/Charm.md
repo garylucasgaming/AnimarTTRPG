@@ -1,0 +1,1 @@
+**Charm** determines your characters charisma with dealing with others, and their influence on others.  ^041997

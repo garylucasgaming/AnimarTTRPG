@@ -1,0 +1,2 @@
+#### Flanking
+Melee attackers gain a bonus when their allies are also attacking the same target in melee. With a 2:1 advantage, the attacker gains a +10 bonus to Weapon Skill. For 3:1 or greater, instead gain a +20 bonus.

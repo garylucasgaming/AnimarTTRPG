@@ -1,0 +1,1 @@
+**Bleed** causes damage over time. For each point of bleed, the entity takes 1 point of damage at the start of their turn. 

@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "0395d561652d6f30",
+    "type": "split",
+    "children": [
+      {
+        "id": "e94788cb17b7744a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d5b531f061f27d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/Titles/Defender.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Defender"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f0b4563a2f914ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "565744cfb6f6228d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49b2e1e507ffb238",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4032fe3e67c445ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a93f859cd00e13ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5
+  },
+  "right": {
+    "id": "777ad913a59d9fcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "185870e484aad11f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cca57f047bcc36a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rules/Skills.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Skills"
+            }
+          },
+          {
+            "id": "00fe0605d0c03c3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rules/Character Creation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Character Creation"
+            }
+          },
+          {
+            "id": "e4bb209f9c3197df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d43c435334d504a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rules/Character Creation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Character Creation"
+            }
+          }
+        ]
+      },
+      {
+        "id": "aa4e1f76c1a7441b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02cb81a36558ded5",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "dbfolder:Create a new database table": false,
+      "obsidian-kanban:Create new board": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "templater-obsidian:Templater": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "6d5b531f061f27d3",
+  "lastOpenFiles": [
+    "Rules/Talents/Endurance.md",
+    "Character Creation/Talent Lists/General Talent List.md",
+    "Character Creation/Talent Lists/Title Talent List.md",
+    "Character Creation/Talent Lists/Class Talent List.md",
+    "Character Creation/Magic/Spell Lists.md",
+    "Rules/Combat.md",
+    "Templates/Other/insert map.md",
+    "zimages/Pasted image 20250210192647.webp",
+    "zimages/Sword-Coast-Map_HighRes.jpg",
+    "zimages/Pasted image 20250210192728.webp",
+    "Character Creation/Classes/Rogue.md",
+    "Character Creation/Classes/Mage.md",
+    "Character Creation/Character Sheet.md",
+    "Character Creation/Classes/Fighter.md",
+    "Character Creation/Titles/Marksman.md",
+    "Templates/Rule templates/Class Template.md",
+    "Rules/Talents/Craft Rune Stone.md",
+    "Rules/Equipment/Magic Items/Rune Stone.md",
+    "Rules/Equipment/Magic Items/Lesser Mana Ring.md",
+    "Character Creation/Skills.md",
+    "Character Creation/Character Creation.md",
+    "Templates/Other/insert wikitable center.md",
+    "Rules/Wounds and Treatment.md",
+    "Rules/Crafting.md",
+    "zimages",
+    "Character Creation/Characteristics.md",
+    "mechanics glossary/Persuade.md",
+    "mechanics glossary/Performance().md",
+    "mechanics glossary/Handle Animal.md",
+    "mechanics glossary/Use Rope.md",
+    "Character Creation/Magic",
+    "Character Creation/Equipment",
+    "Character Creation/Titles/Class Titles",
+    "Rules/Talents/Title Talents",
+    "zimages/Pasted image 20250208032726.webp",
+    "zimages/Pasted image 20250101015616.png",
+    "zimages/Pasted image 20250101015733.png",
+    "zimages/Pasted image 20250101020517.png",
+    "zimages/Pasted image 20250101025846.png",
+    "zimages/Pasted image 20250115004140.webp",
+    "zimages/Pasted image 20241231202504.png",
+    "Character Creation/Talent Lists",
+    "Character Creation",
+    "Rules/Talents/Title Talents",
+    "Rules/Talents/Class talents",
+    "Rules/Monsters"
+  ]
+}

@@ -1,0 +1,1 @@
+**Piercing** damage can reduce an armor's damage reduction. on a successful hit with a piercing weapon, against a target that is wearing armor. reduce the armors damage reduction on that attack by the attackers strength modifier/3. 

@@ -1,0 +1,1 @@
+Bludgeoning damage has the chance to knock a target prone. after making a successful hit, roll 1d100. on a roll of 25 or lower, the target is knocked prone. 

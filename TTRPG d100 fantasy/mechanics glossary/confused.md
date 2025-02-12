@@ -1,0 +1,1 @@
+**confused** - characters that are confused must roll a [[Intellect]] test. if they succeed they still perform their action. otherwise they skip it. 

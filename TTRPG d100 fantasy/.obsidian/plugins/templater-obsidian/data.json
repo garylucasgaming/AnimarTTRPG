@@ -1,0 +1,75 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Character Creation/Races",
+      "template": "Templates/Rule templates/Race Template.md"
+    },
+    {
+      "folder": "Character Creation/Classes",
+      "template": "Templates/Rule templates/Class Template.md"
+    },
+    {
+      "folder": "Character Creation/Titles",
+      "template": "Templates/Rule templates/Title Template.md"
+    },
+    {
+      "folder": "Rules/Mechanics glossary",
+      "template": "Templates/Rule templates/Mechanic Template.md"
+    },
+    {
+      "folder": "Rules/Talents",
+      "template": "Templates/Rule templates/Talent Template.md"
+    },
+    {
+      "folder": "Rules/Spells",
+      "template": "Templates/Rule templates/Spell Template.md"
+    },
+    {
+      "folder": "Rules/Equipment/Weapons",
+      "template": "Templates/Rule templates/Weapon Template.md"
+    },
+    {
+      "folder": "Rules/Equipment/Armor",
+      "template": "Templates/Rule templates/Armor Template.md"
+    },
+    {
+      "folder": "Rules/Monsters",
+      "template": "Templates/Rule templates/Monster Template.md"
+    },
+    {
+      "folder": "Rules/Talents/Title Talents",
+      "template": "Templates/Rule templates/Title Talent Template.md"
+    },
+    {
+      "folder": "Rules/Talents/Class talents",
+      "template": "Templates/Rule templates/Class Talent Template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": []
+}

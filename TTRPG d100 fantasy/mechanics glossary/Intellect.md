@@ -1,0 +1,1 @@
+**Intellect** determines your characters mental intelligence, and knowledge of specific things.  ^2f6c3c

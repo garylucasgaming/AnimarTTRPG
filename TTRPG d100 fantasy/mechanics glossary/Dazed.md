@@ -1,0 +1,1 @@
+When an entity is **Dazed** it gets a -10 to all tests made for 1 round, and cannot take bonus actions or reactions. 

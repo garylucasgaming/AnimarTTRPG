@@ -1,0 +1,28 @@
+{
+  "targetAttributes": [
+    "mechanic"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "attribute",
+      "name": "mechanic",
+      "value": "mechanic",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "4ec1-a993",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}
