@@ -1,6 +1,5 @@
 ---
 Title: Defender
-exampleProperty: 99
 ---
 ## Defender
 placeholder image
