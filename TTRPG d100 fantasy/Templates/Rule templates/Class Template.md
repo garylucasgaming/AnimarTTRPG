@@ -12,33 +12,33 @@ placeholder image
 
 here is the class description
 
-Hit point modifier: Fortitude/3(increases each level by fortitude modifier)
+Hit point modifier: Fortitude/`=this.HPMOD`(increases each level by fortitude modifier)
 
 #### Trained Class Skills: 
 2x Weapon skill(), Climb, Intimidate, Swim, Survival
 
-| Level | Progression                                                                                                             |
-| ----- | ----------------------------------------------------------------------------------------------------------------------- |
-| 1     | [[#Characteristics boost]], [[#Proficiencies]], [[#Class Titles]], racial talent, [[Shield Block]], [[#Fighting Style]] |
-| 2     | [[Retaliation strike]], [[#Battle Tactics]], Skill advance,  Title Talent                                               |
-| 3     | class Talent, General Talent                                                                                            |
-| 4     | Title Talent, Skill Advance                                                                                             |
-| 5     | class Talent, racial talent, General Talent, New Title                                                                  |
-| 6     | Title Talent, Skill Advance                                                                                             |
-| 7     | class Talent, General Talent                                                                                            |
-| 8     | [[#Advanced Battle Tactics]], Skill Advance,  Title Talent                                                              |
-| 9     | class Talent, racial talent , General Talent                                                                            |
-| 10    | Title Talent, Skill Advance                                                                                             |
-| 11    | class Talent, General Talent                                                                                            |
-| 12    | Title Talent, Skill Advance                                                                                             |
-| 13    | class Talent, racial talent, General Talent                                                                             |
-| 14    | [[#Master Battle Tactics]], Skill Advance,  Title Talent                                                                |
-| 15    | class Talent, General Talent                                                                                            |
-| 16    | Title Talent, Skill Advance                                                                                             |
-| 17    | class Talent, racial talent, General Talent                                                                             |
-| 18    | Title Talent, Skill Advance                                                                                             |
-| 19    | class Talent, General Talent                                                                                            |
-| 20    | Skill Advance,  Title Talent                                                                                            |
+| Level | Progression                                                                       |
+| ----- | --------------------------------------------------------------------------------- |
+| 1     | [[#Characteristics boost]], [[#Proficiencies]], [[#Class Titles]], racial talent, |
+| 2     | Skill advance,  Title Talent                                                      |
+| 3     | class Talent, General Talent                                                      |
+| 4     | Title Talent, Skill Advance                                                       |
+| 5     | class Talent, racial talent, General Talent, New Title                            |
+| 6     | Title Talent, Skill Advance                                                       |
+| 7     | class Talent, General Talent                                                      |
+| 8     | Skill Advance,  Title Talent                                                      |
+| 9     | class Talent, racial talent , General Talent                                      |
+| 10    | Title Talent, Skill Advance                                                       |
+| 11    | class Talent, General Talent                                                      |
+| 12    | Title Talent, Skill Advance                                                       |
+| 13    | class Talent, racial talent, General Talent                                       |
+| 14    | Skill Advance,  Title Talent                                                      |
+| 15    | class Talent, General Talent                                                      |
+| 16    | Title Talent, Skill Advance                                                       |
+| 17    | class Talent, racial talent, General Talent                                       |
+| 18    | Title Talent, Skill Advance                                                       |
+| 19    | class Talent, General Talent                                                      |
+| 20    | Skill Advance,  Title Talent                                                      |
 
 ### Class Titles:
 
@@ -58,7 +58,8 @@ When you take this Title
 
 ### Class Abilities:
 
-#### Ability 1
+#### Characteristics Boost
+at level 1 Rogues gets to add 1d10 to a [[Hide]], [[move silently]],  and [[Dexterity]]. 
 
 #### Ability 2
 

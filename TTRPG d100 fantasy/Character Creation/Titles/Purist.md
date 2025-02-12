@@ -7,15 +7,13 @@ placeholder image
 
 ### Description: 
 
-this is where the description goes
+You have chosen to master your specific Class Title. By taking the Purist Title you are choosing to specialize even further down your path. 
 
-Upon selecting this Title gain this ability: 
+Upon selecting this Title gain this ability:  gain 1 Title Talent and 1 General Talent. 
+[[Title Talent List]]
+[[General Talent List]]
 
-#### Ability name
-ability description
-
-
-### Title Talents
+### Talents
 
 
 ```dataview 

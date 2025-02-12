@@ -10,7 +10,7 @@ HPMOD: 3
 
 The fighter is a martial class that is adept at many fighting styles. having trained for years to master these skills, they are a fierce combatant on the battlefield. 
 
-Hit point modifier: Fortitude/3(increases each level by fortitude modifier)
+Hit point modifier: Fortitude/`=this.HPMOD`(increases each level by fortitude modifier)
 
 #### Trained Class Skills: 
 2x [[Weapon skill]](), [[Climb]], [[Intimidate]], [[Swim]], [[First Aid]]

@@ -1,6 +1,6 @@
 ---
 Level: 1
-requisite: Level 1
+requisite:
 ---
 
 #### Shield Block

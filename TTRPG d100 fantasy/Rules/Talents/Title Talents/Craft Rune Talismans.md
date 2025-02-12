@@ -1,6 +1,7 @@
 ---
 Level: 3
 requisite: Craft Rune Stones
+Title: Rune Mage
 ---
 
 #### Craft Rune Stones

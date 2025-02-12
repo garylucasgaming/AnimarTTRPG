@@ -2,7 +2,7 @@
 Weapon_Type: Hammer
 Item_Weight: Medium
 ---
-Weapon name: Runehammer
+Weapon name: Rune hammer
 Damage Type: [[Piercing]], [[Bludgeoning]]
 Hands: one or two handed
 Characteristic: Strength
