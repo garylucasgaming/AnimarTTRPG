@@ -50,29 +50,27 @@ A mages level determines what level of spells they can cast. Every two levels st
 ### Class Titles
 
 
-When you create a mage you must choose a magical discipline. Your magical discipline will determine your Mana source as well spells your class will have easy access to. 
-
-Magical disciplines include: 
+Titles let you focus your build in certain directions, letting you become an expert in a specific area for your build.  These are the class titles available to Fighter. Unlike regular titles, taking this as a class title gives you an extra benefit as listed below. 
 
 ####  [[Blood Mage]]
 
-When you choose this title 
+ Whenever you are casting an evoked spell(this does not include using magic items like rune stones) gain a +5 bonus to your [[Arcane Arts]] roll. 
 
 
 #### [[Rune Mage]]
 
-When you choose this title 
+ Whenever you are casting a Channeled spell(this does not include using magic items like rune stones) gain a +5 bonus to your [[Arcane Arts]] roll. 
 
 #### [[Witch]]
 
-When you choose this title 
+ Whenever you are casting a Ritual spell(this does not include using magic items like rune stones) gain a +5 bonus to your [[Arcane Arts]] roll. 
 
 
 
 ### Class Abilities:
 
 #### Characteristics boost
-at level 1, the mage gets to add 1d10 to [[Arcane Arts]] and [[Intellect]]. 
+at level 1, the mage gets to add 1d10 to [[Arcane Arts]]. 
 
 #### Mana Charge
 all mages have the ability to charge mana. while this might not be the most efficient way to generate mana, it is a way to get access to mana one might not be able to generate normally.  As a standard action, the mage taps into the well force of magic that permeates all living things. they are able to focus and harness a small amount of that mana to be used. Without storage, the mana will disappear after 1 turn. Generate 1 mana of a type of your choice

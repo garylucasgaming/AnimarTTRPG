@@ -1,5 +1,5 @@
 ---
-Level: 1
+Level: 12
 requisite: Rune Smith
 Title: Rune Mage
 ---

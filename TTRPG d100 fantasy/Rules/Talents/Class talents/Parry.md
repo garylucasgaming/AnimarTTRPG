@@ -1,5 +1,5 @@
 ---
-Level: 3
+Level: 1
 Class: Fighter, Rogue, Paladin, Ranger
 requisite: Dexterity 4
 ---

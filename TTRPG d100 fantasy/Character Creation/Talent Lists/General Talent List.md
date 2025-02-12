@@ -4,7 +4,7 @@
 
 ```dataview 
 table requisite, Level
-fROM "Rules/Talents"
+WHERE file.folder = "Rules/Talents"
 SORT Level
 ```
 

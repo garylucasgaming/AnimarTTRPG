@@ -1,5 +1,5 @@
 ---
-Level: 3
+Level: 2
 requisite: knowledge(poisons)
 Title: Assassin
 ---

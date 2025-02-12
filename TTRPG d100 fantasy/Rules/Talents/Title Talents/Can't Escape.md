@@ -1,7 +1,7 @@
 ---
-Level: 3
+Level: 2
 requisite: 
-Title:
+Title: Duelist
 ---
 
 #### Can't Escape
