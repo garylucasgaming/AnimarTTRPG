@@ -1,6 +1,7 @@
 ---
-Level: 1
-requisite:
+Level: 2
+requisite: 
+Title: Veteran Soldier
 ---
 
 #### Battle Maneuver

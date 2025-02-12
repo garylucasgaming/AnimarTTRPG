@@ -46,14 +46,15 @@ Hit point modifier: Fortitude/`=this.HPMOD`(increases each level by fortitude mo
 
 ### Class Titles
 
-Prestige's let you focus your build in certain directions, letting you become an expert in a specific area for your build.  you gain new prestige features at levels 8, 13, 18. 
+Titles let you focus your build in certain directions, letting you become an expert in a specific area for your build.  These are the class titles available to Fighter. Unlike regular titles, taking this as a class title gives you an extra benefit as listed below. 
 
-#### Scoundrel
+#### [[Scoundrel]]
+gain a +5 bonus to your roll when attempting to conceal an item on your person. 
 
+#### [[Assassin]]
+When you sneak attack, you may add +2 to the damage roll. 
 
-#### Assassin
-
-#### Duelist
+#### [[Duelist]]
 
 
 ### Proficiencies
